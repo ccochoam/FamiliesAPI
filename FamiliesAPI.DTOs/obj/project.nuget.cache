@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qyx1stT2Ti+ridCbWIKWVayyLOXjTZqzJZGfAHGhfY+l5IFQxX8h00zRigLkbXDvADJZj2ELJA3r6tU67cJpig==",
+  "success": true,
+  "projectFilePath": "D:\\proyectos\\Praxedes\\midasoft\\FamiliesAPI\\FamiliesAPI.DTOs\\FamiliesAPI.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\6.5.0\\swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
